@@ -9,13 +9,20 @@
 
   - [ ] set window layout on game start
 
-  - [ ] main game buffer
+  - [-] main game buffer
+    - [X] very basic drawing of map
     - [ ] light
     - [ ] field-of-view calculations
+
+  - [ ] fancy colors
+    - [ ] in the game buffer
+    - [ ] in the status buffer
+    - [ ] in the messages buffer
 
 ** Gameplay
 
   - [ ] character creation
+
   - [ ] monster types
     - [ ] alignment (friend/foe)
 
@@ -29,6 +36,11 @@
     - [ ] item spawning
 
   - [ ] actions
-    - [ ] keymaps
     - [ ] concept of time
+    - [ ] keymaps
+    - [ ] using items
+      - [ ] wearing equipment
+      - [ ] consuming items
     - [ ] combat
+      - [ ] melee combat
+      - [ ] ranged combat
