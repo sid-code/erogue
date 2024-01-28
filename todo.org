@@ -1,16 +1,34 @@
 * Erogue TODO list
-** TODO ui
-*** TODO status buffer
-**** TODO display player name/stats
-*** TODO messages buffer
-*** TODO window layout
-*** TODO main game buffer
-**** TODO light
-**** TODO field-of-view calculations
-** TODO gameplay
-*** TODO character creation
-*** TODO actions
-**** TODO keymaps
-**** TODO some concept of time
-**** TODO combat
 
+** UI
+
+  - [ ] status buffer
+    - [ ] display player name/status
+
+  - [ ] messages buffer
+
+  - [ ] set window layout on game start
+
+  - [ ] main game buffer
+    - [ ] light
+    - [ ] field-of-view calculations
+
+** Gameplay
+
+  - [ ] character creation
+  - [ ] monster types
+    - [ ] alignment (friend/foe)
+
+  - [ ] items
+    - [ ] weapons
+    - [ ] armor
+
+  - [ ] dungeon generation
+    - [ ] map generation
+    - [ ] monster spawning
+    - [ ] item spawning
+
+  - [ ] actions
+    - [ ] keymaps
+    - [ ] concept of time
+    - [ ] combat
