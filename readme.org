@@ -1,0 +1,14 @@
+* Erogue
+
+** Introduction
+
+Erogue is a roguelike game written in Emacs Lisp intended to be played
+from within emacs.
+
+The goal of this project is to create a roguelike similar in
+simplicity to [[https://en.wikipedia.org/wiki/Larn_%28video_game%29][Larn]] but with interesting-enough mechanics to encourage
+[[https://en.wikipedia.org/wiki/Emergent_gameplay][emergent gameplay]].
+
+** Roadmap/TODO list
+
+See ~todo.org~ in this repository.
