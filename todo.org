@@ -1,0 +1,8 @@
+* Erogue TODO list
+** TODO ui
+*** TODO status buffer
+*** TODO messages buffer
+*** TODO main game buffer
+  - [ ] light
+  - [ ] field-of-view calculations
+** TODO gameplay
