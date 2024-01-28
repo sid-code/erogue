@@ -1,8 +1,16 @@
 * Erogue TODO list
 ** TODO ui
 *** TODO status buffer
+**** TODO display player name/stats
 *** TODO messages buffer
+*** TODO window layout
 *** TODO main game buffer
-  - [ ] light
-  - [ ] field-of-view calculations
+**** TODO light
+**** TODO field-of-view calculations
 ** TODO gameplay
+*** TODO character creation
+*** TODO actions
+**** TODO keymaps
+**** TODO some concept of time
+**** TODO combat
+
